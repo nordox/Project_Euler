@@ -5,10 +5,13 @@
 # m is the number of digits to be multiplied
 def consecutiveProduct(x, m):
     largest = 0
+    # Go from the first digit to last digit-m
     for i in range(0, len(str(x))-m):
+        # Multiply the the digits infront of the selected digit
         val = int(x[i:i+1])
         for j in range(1, m):
             val = val*int(x[i+j])
+        # Check if products is the largest
         if val > largest:
             largest = val
     return largest
