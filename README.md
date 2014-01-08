@@ -15,3 +15,4 @@ Problems:
 8. Find the greatest product of five consecutive digits in the 1000-digit number. ( See euler8.py for the number )
 9. There exists exactly one Pythagorean triplet for which a + b + c = 1000.
 Find the product abc.
+11. What is the greatest product of four adjacent numbers in the same direction (up, down, left, right, or diagonally) in the 20×20 grid?
