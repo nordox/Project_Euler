@@ -13,6 +13,6 @@ Problems:
 6. Find the difference between the sum of the squares of the first one hundred natural numbers and the square of the sum.
 7. What is the 10 001st prime number?
 8. Find the greatest product of five consecutive digits in the 1000-digit number. ( See euler8.py for the number )
-9. There exists exactly one Pythagorean triplet for which a + b + c = 1000.
-Find the product abc.
+9. There exists exactly one Pythagorean triplet for which a + b + c = 1000. Find the product abc.
+10. Find the sum of all the primes below two million.
 11. What is the greatest product of four adjacent numbers in the same direction (up, down, left, right, or diagonally) in the 20×20 grid?
